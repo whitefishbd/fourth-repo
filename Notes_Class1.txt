@@ -1,1 +1,34 @@
-hello
+Advantages of Waterfall model
+
+- Quality of producto will be good
+- Since changes are not allowed avbisousy less bugs
+- Initial investment aare also less, testers are hired at a later stage
+- Performed for smaller projects which fare less or not at all dynamic in nature. 
+
+Disadvantages of waterfall model
+- changes are not allowed
+- carrying forward of defect
+
+
+-----------xxxxx-------
+Advantages of spiral model
+- testing is done for every cycle
+- customer will get use for every version.
+- chaninges is requirements are accommodated
+
+Disadvantages of spiral model
+- 
+
+-------xxxx-------
+V model known as verification and validation model
+
+-----------------xxxx---------------------
+
+qA= is process related
+qc = software testing
+qe= quality engineering (automation sofstware tester)
+
+
+---------xxx-----
+Software testing
+1. Static testing: reviews, inspections, walkthroughs
